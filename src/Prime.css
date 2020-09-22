@@ -1,0 +1,18 @@
+.home_row {
+  display: flex;
+  z-index: 1;
+
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 20px;
+  align-items: center;
+}
+.prime {
+  background: rgb(29, 29, 32);
+  background: linear-gradient(
+    0deg,
+    rgba(29, 29, 32, 1) 37%,
+    rgba(23, 26, 27, 1) 47%,
+    rgba(21, 25, 25, 1) 55%
+  );
+}
